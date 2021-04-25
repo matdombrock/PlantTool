@@ -4,7 +4,7 @@ An Arduino based device that uses 3 sensors to give you reading on just about ev
 ## Features
 * Soil Moisture Level
 * Light Level
-* Temperate
+* Temperature
 * Humidity
 * Heat Index ([What's That?](https://www.weather.gov/safety/heat-index))
 
